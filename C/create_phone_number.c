@@ -9,7 +9,7 @@ The returned format must be correct in order to complete this challenge.
 Dont forget the space after the closing parentheses!
 */
 
-//My solution:
+//My solution (obfuscated, could have been done in a single line w/ sprintf)):
 
 #include <stdint.h>
 
